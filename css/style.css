@@ -225,7 +225,11 @@ transition: transform 0.2s;
    .input-container{
     display: flex;
     align-items: center;
-    width: 75%;
+    width: 67%;
+    }
+
+    .button-container{
+        width: 76px;
     }
 
     .button-container span{
